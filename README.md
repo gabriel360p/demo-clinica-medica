@@ -10,11 +10,11 @@
 
 
 
-Uma aplicação web desenvolvida para apresentar uma clínica médica,
+Uma aplicação web desenvolvida para apresentar serviços médicos,
 
-seus serviços e especialidades, proporcionando uma experiência digital
+fortalecer a presença digital da clínica e proporcionar uma experiência
 
-profissional, organizada e responsiva para seus pacientes.
+profissional, confiável e responsiva para seus pacientes.
 
 
 
@@ -40,15 +40,15 @@ https://demo-clinica-nutricao.vercel.app/
 
 
 
-O **Demo Clínica Médica** é uma landing page institucional desenvolvida para representar uma clínica médica moderna, apresentando seus serviços, especialidades e informações importantes para pacientes que buscam atendimento.
+O **Demo Clínica Médica** é uma landing page institucional desenvolvida para representar uma clínica médica moderna, apresentando informações sobre atendimento, serviços e diferenciais da instituição.
 
 
 
-O projeto foi criado simulando uma solução digital para uma empresa real do segmento de saúde, com foco em transmitir confiança, organização e profissionalismo através de uma interface moderna e intuitiva.
+O projeto foi criado simulando uma solução digital para um negócio real da área da saúde, com foco em transmitir confiança, organização e profissionalismo através de uma interface limpa e intuitiva.
 
 
 
-A aplicação foi desenvolvida utilizando boas práticas de Front-end, organização de componentes e responsividade, garantindo uma experiência adequada em diferentes dispositivos.
+A aplicação foi desenvolvida utilizando tecnologias fundamentais da Web, aplicando boas práticas de estruturação HTML, estilização CSS e interações utilizando JavaScript.
 
 
 
@@ -62,13 +62,13 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 - Criar uma presença digital profissional para uma clínica médica;
 
-- Desenvolver uma interface que transmita confiança aos pacientes;
+- Desenvolver uma interface que transmita segurança e confiança aos pacientes;
 
-- Apresentar serviços e especialidades de forma organizada;
+- Apresentar serviços e informações de forma organizada;
 
-- Facilitar o acesso às informações da clínica;
+- Aplicar conceitos de UI/UX em uma solução comercial;
 
-- Aplicar conceitos de UI/UX em uma solução voltada para negócios reais.
+- Criar uma página responsiva próxima às necessidades reais do mercado.
 
 
 
@@ -84,17 +84,17 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 - ✅ Apresentação dos serviços médicos;
 
-- ✅ Seção de especialidades;
+- ✅ Seção de informações da clínica;
 
-- ✅ Informações sobre a clínica;
+- ✅ Destaque para diferenciais do atendimento;
 
 - ✅ Área de contato;
 
+- ✅ Navegação entre seções;
+
 - ✅ Layout responsivo para dispositivos móveis, tablets e desktops;
 
-- ✅ Interface moderna seguindo princípios de UI/UX;
-
-- ✅ Navegação otimizada entre seções.
+- ✅ Interações utilizando JavaScript.
 
 
 
@@ -110,7 +110,7 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 
 
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" />
 
 
 
@@ -122,13 +122,11 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 
 
-- **React** — Construção da interface utilizando componentes reutilizáveis;
+- **HTML5** — Estruturação semântica da página e organização dos conteúdos;
 
-- **TypeScript** — Utilizado para maior segurança e organização do código;
+- **CSS3** — Desenvolvimento do layout, identidade visual e responsividade;
 
-- **Vite** — Ferramenta moderna para desenvolvimento e otimização do projeto;
-
-- **Tailwind CSS** — Criação da interface responsiva e estilização eficiente;
+- **JavaScript** — Implementação de interações e comportamentos dinâmicos;
 
 - **Git/GitHub** — Controle de versão e gerenciamento do projeto.
 
@@ -142,7 +140,27 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 
 
-A aplicação foi estruturada utilizando componentes independentes, permitindo melhor organização do código, reutilização de elementos e facilidade para futuras melhorias.
+A aplicação foi organizada utilizando uma estrutura simples e direta, separando os arquivos principais da página entre HTML, CSS e JavaScript.
+
+
+
+Exemplo:
+
+
+
+```
+projeto
+
+├── index.html
+
+├── style.css
+
+└── script.js
+```
+
+
+
+Essa organização facilita a manutenção do código, entendimento da estrutura e futuras personalizações do template.
 
 
 
@@ -162,7 +180,7 @@ Durante o desenvolvimento, alguns desafios importantes foram trabalhados:
 
 
 
-Garantir que todas as informações da clínica permanecessem organizadas e fáceis de visualizar em diferentes tamanhos de tela.
+Criar uma interface adequada para diferentes dispositivos, mantendo uma boa experiência de navegação e leitura das informações.
 
 
 
@@ -170,21 +188,21 @@ Foram considerados:
 
 
 
-- adaptação de textos;
+- organização dos conteúdos;
 
-- organização das seções;
+- adaptação dos elementos visuais;
 
-- distribuição dos elementos visuais;
+- espaçamentos;
 
-- experiência em dispositivos móveis.
-
-
-
-### 🎨 Identidade visual para área da saúde
+- legibilidade das informações.
 
 
 
-Criar uma interface que transmitisse características essenciais para o segmento médico:
+### 🎨 Construção da identidade visual da área da saúde
+
+
+
+Desenvolver uma interface alinhada ao segmento médico, transmitindo características como:
 
 
 
@@ -192,17 +210,17 @@ Criar uma interface que transmitisse características essenciais para o segmento
 
 - segurança;
 
-- profissionalismo;
+- cuidado;
 
-- cuidado com o paciente.
-
-
-
-### 🧱 Componentização
+- profissionalismo.
 
 
 
-Desenvolver uma estrutura baseada em componentes reutilizáveis, facilitando manutenção e permitindo futuras expansões da aplicação.
+### ⚡ Interações com JavaScript
+
+
+
+Adicionar funcionalidades e comportamentos dinâmicos utilizando JavaScript puro, melhorando a interação do usuário com a página.
 
 
 
@@ -218,17 +236,17 @@ Com esse projeto foi possível aprimorar:
 
 
 
-- Desenvolvimento de páginas institucionais para empresas;
+- Desenvolvimento de landing pages institucionais;
 
-- Criação de interfaces voltadas para o segmento de saúde;
+- Estruturação semântica utilizando HTML5;
 
-- Organização de componentes React;
+- Criação de layouts responsivos com CSS3;
 
-- Construção de layouts responsivos;
+- Manipulação do DOM com JavaScript;
 
-- Desenvolvimento de soluções digitais focadas no usuário;
+- Organização de projetos Front-end;
 
-- Aplicação de boas práticas de Front-end.
+- Desenvolvimento de interfaces para diferentes segmentos profissionais.
 
 
 
@@ -248,13 +266,13 @@ Algumas melhorias que podem ser implementadas:
 
 - [ ] Integração com WhatsApp;
 
-- [ ] Formulário para contato de pacientes;
+- [ ] Formulário de contato funcional;
 
-- [ ] Área de profissionais da clínica;
+- [ ] Área de apresentação dos profissionais;
 
-- [ ] Integração com Google Maps;
+- [ ] Integração com localização via mapa;
 
-- [ ] Otimizações avançadas de SEO.
+- [ ] Melhorias avançadas de SEO.
 
 
 
@@ -286,23 +304,17 @@ cd demo-clinica-medica
 
 
 
-Execute os comandos via terminal dentro da pasta do projeto:
+Abra o arquivo:
 
 
 
-```bash
-npm install
-
-npm run dev
+```
+index.html
 ```
 
 
 
-Acesse no navegador:
-
-
-
-http://localhost:5173
+Ou utilize uma extensão como **Live Server** para executar o projeto localmente.
 
 
 
@@ -310,7 +322,7 @@ http://localhost:5173
 
 
 
-**👨‍💻 Autor**
+## 👨‍💻 Autor
 
 
 
